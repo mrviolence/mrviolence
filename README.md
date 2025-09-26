@@ -1,5 +1,17 @@
 ## Hi there 👋
+# My Gadgets Store
 
+This is my first e-commerce project for electronic gadgets.
+
+## What I'm building:
+- Online store for smartphones, laptops, and accessories
+- Product comparison feature
+- Shopping cart and checkout
+
+## Learning Goals:
+- Learn web development
+- Understand e-commerce
+- Use GitHub for my projects
 <!--
 **mrviolence/mrviolence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

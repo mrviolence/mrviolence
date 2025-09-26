@@ -12,6 +12,28 @@ This is my first e-commerce project for electronic gadgets.
 - Learn web development
 - Understand e-commerce
 - Use GitHub for my projects
+- # My Gadgets Store - Project Plan
+
+## Phase 1: Planning ✅
+- [x] Create GitHub repository
+- [x] Write basic project description
+- [ ] List the main pages I need
+
+## Phase 2: Learning
+- [ ] Learn basic HTML/CSS
+- [ ] Create simple product page mockup
+- [ ] Learn about databases
+
+## Phase 3: Building
+- [ ] Create homepage with product listings
+- [ ] Add product detail pages
+- [ ] Build shopping cart functionality
+
+## Product Categories I'll Include:
+- Smartphones
+- Laptops  
+- Headphones
+- Smartwatches
 <!--
 **mrviolence/mrviolence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
